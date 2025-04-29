@@ -1,0 +1,301 @@
+App Category,App Name,Rating,Reviews
+Games,App_0,4.5,120
+Games,Bpp_1,4.3,80
+Games,Cpp_2,4.8,70
+Games,Dpp_3,4.1,50
+Games,Epp_4,4.7,150
+Games,Fcp_5,4.5,120
+Games,Gpp_6,4.3,80
+Games,Hpp_7,4.8,70
+Games,Icp_8,4.1,50
+Games,Jpp_9,4.7,150
+Games,Kpp_10,4.5,120
+Games,Lcp_11,4.3,80
+Games,Mcp_12,4.8,70
+Games,Ncp_13,4.1,50
+Games,Opp_14,4.7,150
+Games,Pcp_15,4.5,120
+Games,Qpp_16,4.3,80
+Games,Rpcp_17,2.8,70
+Games,Sppc_18,4.1,50
+Games,Tppc_19,4.7,150
+Games,Upp_20,4.5,120
+Games,Vpp_21,4.3,80
+Games,Wppc_22,4.8,70
+Games,Xppc_23,4.1,50
+Games,Ypp_24,4.7,150
+Games,Zppc_25,4.5,120
+Games,App_26,4.3,80
+Games,Bppc_27,4.8,70
+Games,Cpp_28,4.1,50
+Games,Dppc_29,3.7,150
+Games,Epp_30,4.5,120
+Games,Fpp_c31,4.3,80
+Games,Gppc_32,4.8,70
+Games,Hppc_33,4.1,50
+Games,Ipcp_34,4.7,150
+Games,Jppc_35,4.5,120
+Games,Kpp_36,4.3,80
+Games,Lpp_37,4.8,70
+Games,Mpcp_38,4.1,50
+Games,Npcp_39,4.7,150
+Games,Opcp_40,4.5,120
+Games,Ppcp_41,4.3,80
+Games,Qpcp_42,4.8,70
+Games,Rpp_43,4.1,50
+Games,Spcp_44,4.7,150
+Games,Tpp_45,4.5,120
+Games,Upcp_46,4.3,80
+Games,Vpp_47,4.8,70
+Games,Wpcp_48,4.1,50
+Games,Xpcp_49,4.7,150
+Games,Ypp_50,4.5,120
+Games,Zpp_51,4.3,80
+Games,Appc_52,4.8,70
+Games,Bpcp_53,4.1,50
+Games,Cpp_54,4.7,150
+Productivity,Dcpp_55,4.2,25
+Productivity,Epcp_56,4.0,40
+Productivity,Fppc_57,4.5,35
+Productivity,Gpp_c58,4.6,90
+Productivity,Hpp_59,4.3,55
+Productivity,Icpp_60,4.2,25
+Productivity,Jpcp_61,4.0,40
+Productivity,Kpp_62,4.5,35
+Productivity,Lpp_63,4.6,90
+Productivity,Mppc_64,4.3,55
+Productivity,Npp_65,4.2,25
+Productivity,Opcp_66,4.0,40
+Productivity,Pppc_67,4.5,35
+Productivity,Qppc_68,4.6,90
+Productivity,Rppc_69,4.3,55
+Productivity,Spp_70,4.2,25
+Productivity,Tppc_71,4.0,40
+Productivity,Uppc_72,4.5,35
+Productivity,Vppc_73,4.6,90
+Productivity,Wpp_74,4.3,55
+Productivity,Xppc_75,4.2,25
+Productivity,Yppc_76,4.0,40
+Productivity,Zppc_77,4.5,35
+Productivity,App_78,4.6,90
+Productivity,Bppc_79,4.3,55
+Productivity,Cpp_80,4.2,25
+Productivity,Dpp_81,4.0,40
+Productivity,Epp_82,4.5,35
+Productivity,Fpp_83,4.6,90
+Productivity,Gppc_84,4.3,55
+Productivity,Hppc_85,4.2,25
+Productivity,Ippc_86,4.0,40
+Productivity,Jppc_87,4.5,35
+Productivity,Kpp_88,4.6,90
+Productivity,Lppc_89,4.3,55
+Productivity,Mppc_90,4.2,25
+Productivity,Npp_91,4.0,40
+Productivity,Oppc_92,4.5,35
+Productivity,Ppp_93,4.6,90
+Productivity,Qppc_94,4.3,55
+Productivity,Rpp_95,4.2,25
+Productivity,Sppc_96,4.0,40
+Productivity,Tpp_97,4.5,35
+Productivity,Upp_c98,4.6,90
+Productivity,Vpp_99,4.3,55
+Productivity,Wpp_100,4.2,25
+Productivity,Xpp_c101,4.0,40
+Productivity,Ypp_102,4.5,35
+Productivity,Zppc_103,4.6,90
+Productivity,Appc_104,4.3,55
+Productivity,Bppc_105,4.2,25
+Productivity,Cpp_106,4.0,40
+Productivity,Dpp_107,4.5,35
+Productivity,Epcp_108,4.6,90
+Productivity,Fpcp_109,4.3,55
+Social Media,Gpcp_110,4.8,65
+Social Media,Hpp_111,4.1,75
+Social Media,Ipp_112,4.3,85
+Social Media,Jppc_113,4.7,95
+Social Media,Kppc_114,4.6,60
+Social Media,Lppc_115,4.8,65
+Social Media,Mppc_116,4.1,75
+Social Media,Nppc_117,4.3,85
+Social Media,Oppc_118,4.7,95
+Social Media,Pppc_119,4.6,60
+Social Media,Qppc_120,4.8,65
+Social Media,Rpp_121,4.1,75
+Social Media,Spcp_122,4.3,85
+Social Media,Tppc_123,2.7,95
+Social Media,Upp_124,4.6,60
+Social Media,Vpcp_125,4.8,65
+Social Media,Wppc_126,4.1,75
+Social Media,Xpcp_127,4.3,85
+Social Media,Ypcp_128,4.7,95
+Social Media,Zpcp_129,4.6,60
+Social Media,Apcp_130,4.8,65
+Social Media,Bppc_131,4.1,75
+Social Media,Cppc_132,4.3,85
+Social Media,Dppc_133,4.7,95
+Social Media,Eppc_134,3.6,60
+Social Media,Fppc_135,4.8,65
+Social Media,Gpp_136,4.1,75
+Social Media,Hpcp_137,4.3,85
+Social Media,Ipcp_138,4.7,95
+Social Media,Jpcp_139,4.6,60
+Social Media,Kpcp_140,4.8,65
+Social Media,Lpcp_141,4.1,75
+Social Media,Mpcp_142,4.3,85
+Social Media,Npcp_143,4.7,95
+Social Media,Oppc_144,4.6,60
+Social Media,Pppcc_145,4.8,65
+Social Media,Qppc_146,4.1,75
+Social Media,Rpp_147,4.3,85
+Social Media,Sppc_148,4.7,95
+Social Media,Tppc_149,4.6,60
+Social Media,Uppc_150,4.8,65
+Social Media,Vppc_151,4.1,75
+Social Media,Wpp_152,4.3,85
+Social Media,Xppc_153,4.7,95
+Social Media,Ypp_154,4.6,60
+Social Media,Zpp_155,4.8,65
+Social Media,Appc_156,4.1,75
+Social Media,Bppc_157,4.3,85
+Social Media,Cpp_158,4.7,95
+Social Media,Dpp_159,4.6,60
+Social Media,Epp_160,4.8,65
+Social Media,Fpp_161,4.1,75
+Social Media,Gppc_162,4.3,85
+Social Media,Hpp_163,4.7,95
+Social Media,Ipp_164,4.6,60
+Education,Jpp_165,4.0,100
+Education,Kpcp_166,4.1,75
+Education,Lpcp_167,4.4,80
+Education,Mppcc_168,4.2,140
+Education,Npp_c169,4.3,110
+Education,Oppc_170,3.0,100
+Education,Pppc_171,4.1,75
+Education,Qpp_172,4.4,80
+Education,Rpp_173,4.2,140
+Education,Sppc_174,3.3,110
+Education,Tppc_175,4.0,100
+Education,Upp_176,4.1,75
+Education,Vppc_177,2.4,80
+Education,Wpp_178,4.2,140
+Education,Xpp_179,4.3,110
+Education,Yppc_180,4.0,100
+Education,Zpp_181,4.1,75
+Education,Appc_182,4.4,80
+Education,Bpp_183,4.2,140
+Education,Cppc_184,4.3,110
+Education,Dppc_185,4.0,100
+Education,Epp_186,4.1,75
+Education,Fppc_187,4.4,80
+Education,Gpp_188,4.2,140
+Education,Hppc_189,4.3,110
+Education,Ippc_190,4.0,100
+Education,Jppc_191,4.1,75
+Education,Kpp_192,4.4,80
+Education,Lpcp_193,4.2,140
+Education,Mpp_194,4.3,110
+Education,Npcp_195,4.0,100
+Education,Opp_196,4.1,75
+Education,Ppcp_197,4.4,80
+Education,Qpp_198,4.2,140
+Education,Rpp_199,4.3,110
+Education,Spp_200,4.0,100
+Education,Tppc_201,4.1,75
+Education,Upp_202,4.4,80
+Education,Vpp_203,4.2,140
+Education,Wppc_204,4.3,110
+Education,Xpp_205,4.0,100
+Education,Yppc_206,4.1,75
+Education,Zpp_207,4.4,80
+Education,App_208,4.2,140
+Education,Bppc_209,4.3,110
+Education,Cpp_210,4.0,100
+Education,Dpp_211,4.1,75
+Education,Eppc_212,4.4,80
+Education,Fppc_213,4.2,140
+Education,Gppc_214,4.3,110
+Education,Hppc_215,4.0,100
+Education,Ippc_216,4.1,75
+Education,Jppc_217,4.4,80
+Education,Kpp_218,4.2,140
+Education,Lppc_219,4.3,110
+Health,Mpcp_220,4.6,100
+Health,Nppc_221,4.2,70
+Health,Opp_c222,4.5,75
+Health,Ppp_223,4.7,90
+Health,Qpp_224,4.1,60
+Health,Rppc_225,4.6,100
+Health,Spcp_226,4.2,70
+Health,Tppc_227,4.5,75
+Health,Upcp_228,4.7,90
+Health,Vpcp_229,4.1,60
+Health,Wpcp_230,4.6,100
+Health,Xpcp_231,4.2,70
+Health,Ypcp_232,4.5,75
+Health,Zpcp_233,4.7,90
+Health,Apcp_234,4.1,60
+Health,Bpcp_235,4.6,100
+Health,Cpp_236,4.2,70
+Health,Dpcp_237,4.5,75
+Health,Epp_238,4.7,90
+Health,Fpcp_239,4.1,60
+Health,Gpp_240,4.6,100
+Health,Hpcp_241,4.2,70
+Health,Ipcp_242,4.5,75
+Health,Jpp_243,4.7,90
+Health,Kpcp_244,4.1,60
+Health,Lpp_245,4.6,100
+Health,Mpcp_246,4.2,70
+Health,Npp_247,4.5,75
+Health,Oppc_248,4.7,90
+Health,Pcpp_249,4.1,60
+Health,Qpp_250,4.6,100
+Health,Rpp_251,4.2,70
+Health,Spcp_252,4.5,75
+Health,Tpp_253,4.7,90
+Health,Uppc_254,4.1,60
+Health,Vpp_255,4.6,100
+Health,Wpcp_256,4.2,70
+Health,Xpp_257,4.5,75
+Health,Ypcp_258,4.7,90
+Health,Zpp_259,4.1,60
+Health,Apcp_260,4.6,100
+Health,Bpp_261,4.2,70
+Health,Cpcp_262,4.5,75
+Health,Dpp_263,4.7,90
+Health,Epp_264,4.1,60
+Health,Fppc_265,4.6,100
+Health,Gpcp_266,4.2,70
+Health,Hppc_267,4.5,75
+Health,Ippc_268,4.7,90
+Health,Jpp_269,4.1,60
+Health,Kppc_270,4.6,100
+Health,Lpp_271,4.2,70
+Health,Mppc_272,4.5,75
+Health,Npp_273,4.7,90
+Health,Oppc_274,4.1,60
+Travel,Pppc_275,4.4,872
+Education,Qcpp_276,3.7,825
+Social,Rpcp_277,2.8,280
+Travel,Sppc_278,1.1,465
+Health,Tppc_279,4.8,471
+Social,Uppc_280,3.3,736
+Social,Vpp_281,2.5,261
+Travel,Wpcp_282,1.1,711
+Productivity,Xcpp_283,1.9,305
+Health,Yppc_284,2.0,734
+Travel,Zpcp_285,3.7,729
+Health,Apcp_286,3.4,758
+Health,Bpp_287,4.3,347
+Social,Cpp_288,1.7,888
+Education,Dcpp_289,2.6,62
+Health,Epcp_290,1.7,801
+Finance,Fpcp_291,4.0,931
+Social,Gppc_292,2.7,226
+Productivity,Hpp_293,1.8,773
+Education,Icpp_294,3.3,197
+Finance,Jpcp_295,1.1,389
+Finance,Kpcp_296,4.4,502
+Productivity,Lcpp_297,2.8,50
+Education,Mpp_298,2.6,166
+Social,Npcp_299,4.7,24
